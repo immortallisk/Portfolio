@@ -56,8 +56,11 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(235,235,235,.75);
-  background-color: #FFAFB7;
+  color: rgba(235,235,235,.5);
+  background-color: #0000ff
+  /* Pink Logo Background
+    background-color: #FFAFB7*/
+  ;
 }
 @media (min-width: 48em) {
   .sidebar {
